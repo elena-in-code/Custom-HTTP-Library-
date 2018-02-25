@@ -1,4 +1,7 @@
-//LIBRARY::
+/*
+* EasyHTTP Library
+* @version 1
+*/
 //ES5 object oriented library - prototypes
 
 function easyHTTP(){
